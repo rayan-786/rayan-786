@@ -50,6 +50,12 @@ Building scalable, secure, and production-ready web applications with modern tec
 ---
 
 ## 🚀 Featured Projects
+### Expense Tracker
+- Authentication JWT and SSO(0Auth)
+- Nodemailer(OTP)
+- REST Api and CRUD
+- MySql + Express + React + Node.js
+- SAAS UI
 
 ### 📌 Task Management System
 
