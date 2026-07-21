@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Rayan
 
-### Full Stack Developer (MERN) | Backend Enthusiast | AWS & Docker
+### Full Stack Developer | Backend Enthusiast | AWS & Docker
 
 Building scalable, secure, and production-ready web applications with modern technologies.
 
