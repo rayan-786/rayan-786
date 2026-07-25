@@ -108,7 +108,7 @@ Building scalable, secure, and production-ready web applications with modern tec
 
 - 🌐 Portfolio: https://rayan.website
 - 💼 LinkedIn: https://linkedin.com/in/rayan-ahmad786
-- 📧 Email: ansarirayan86@gmail.com
+- 📧 Email: rayanahmad7800@gmail.com
 
 ---
 
