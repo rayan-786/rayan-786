@@ -32,7 +32,7 @@ Building scalable, secure, and production-ready web applications with modern tec
 ### 👨‍💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python" />
 </p>
 
 ### 🎨 Frontend Development
