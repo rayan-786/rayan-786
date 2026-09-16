@@ -17,74 +17,128 @@ Building scalable, secure, and production-ready web applications with modern tec
 ## 💫 About Me
 
 - 💻 Full Stack Developer and DevOps Engineer
-- 🚀 Building production-ready full-stack applications
-- 🐳 Docker, CI/CD & System Design
-- ☁️ Deploying apps on AWS EC2 with Nginx
-- 🔐 Passionate about Authentication, SSO APIs & Backend Development
-- PostgreSQL & Advanced Node.js
+- 🚀 Building scalable, secure, and production-ready applications
+- 🐳 Docker, CI/CD, Cloud Deployment, and System Design
+- ☁️ Deploying applications on AWS EC2 with Nginx and PM2
+- 🔐 Experienced in JWT Authentication, OAuth 2.0, GitHub SSO, and secure APIs
+- 💳 Implementing payment integrations and SaaS subscription systems
+- ⚡ Working with REST APIs, CRUD operations, and backend architecture
+- 📚 Currently exploring advanced Node.js, TypeScript, Next.js, Python, and Cloud Technologies
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
+### 👨‍💻 Programming Languages
 
-![JavaScript](https://skillicons.dev/icons?i=js)
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp" />
+</p>
 
-### Frontend
+### 🎨 Frontend Development
 
-![Frontend](https://skillicons.dev/icons?i=html,css,react,tailwind,vite)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite" />
+</p>
 
-### Backend
+### ⚙️ Backend Development
 
-![Backend](https://skillicons.dev/icons?i=nodejs,express)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+</p>
 
-### Database
+- RESTful APIs
+- CRUD Operations
+- JWT Authentication
+- OAuth 2.0 & GitHub SSO
+- Role-Based Access Control (RBAC)
+- OTP Verification
+- Email Services with Nodemailer
+- API Security and Middleware
 
-![Database](https://skillicons.dev/icons?i=mongodb,postgres)
+### 🗄️ Databases
 
-### DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
+</p>
 
-![Tools](https://skillicons.dev/icons?i=docker,aws,nginx,git,github,vscode,postman)
+- MongoDB
+- MySQL
+- PostgreSQL
+- TiDB
+- Database Design and Query Optimization
+
+### ☁️ DevOps, Cloud & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,nginx,git,github,githubactions,linux,vscode,postman" />
+</p>
+
+- Docker & Containerization
+- AWS EC2
+- Nginx Reverse Proxy
+- PM2 Process Management
+- Git & GitHub
+- CI/CD with GitHub Actions
+- Environment Configuration
+- Production Deployment
+- API Testing with Postman
+
+### 💳 Payments & SaaS
+
+- Razorpay Payment Integration
+- Subscription-Based SaaS Applications
+- Payment Verification
+- Premium and Free-Tier Features
+- Subscription Management
+- Secure Payment Workflows
 
 ---
 
 ## 🚀 Featured Projects
-### 📌 Expense Tracker(Spendora)
-- Authentication JWT and SSO(0Auth)
-- Nodemailer(OTP)
-- REST Api and CRUD
-- MySql + Express + React + Node.js
-- SAAS UI
+
+### 📌 Spendora — SaaS Expense Tracker
+
+A full-stack personal finance management application with subscription-based premium features.
+
+- 🔐 JWT Authentication and GitHub OAuth 2.0
+- 📧 Nodemailer OTP Verification
+- 🔄 REST APIs and CRUD Operations
+- 💳 Razorpay Payment Integration
+- 🚀 SaaS Subscription Model
+- 📊 Expense, Income, Budget, and Account Management
+- 🗄️ MySQL/TiDB Database
+- 🐳 Dockerized Backend
+- ☁️ AWS EC2 Deployment with Nginx
+- 🌐 Frontend Deployment on Vercel
 
 ### 📌 Task Management System
 
-- Authentication & Authorization
+- Authentication and Authorization
+- Role-Based Access Control
 - Team Management
+- Task Assignment and Status Tracking
 - Email Notifications
-- Task Assignment
 - REST APIs
 - MongoDB + Express + React + Node.js
 
----
-
 ### 📌 Portfolio Website
 
-- Modern UI
-- Dark / Light Theme
+- Modern and Responsive UI
+- Dark/Light Theme
 - Chatbot Integration
 - Contact Form
 - Responsive Design
-
----
+- Production Deployment
 
 ### 📌 Authentication System
 
 - JWT Authentication
-- GitHub OAuth
+- GitHub OAuth 2.0
 - OTP Verification
-- Forgot Password
-- Secure APIs
+- Forgot Password Functionality
+- Secure API Architecture
+- Password Hashing and Authorization
 
 ---
 
@@ -104,11 +158,23 @@ Building scalable, secure, and production-ready web applications with modern tec
 
 ---
 
+## 🎯 Currently Learning
+
+- TypeScript and Next.js
+- Advanced Backend Architecture
+- Docker and CI/CD Automation
+- AWS Cloud Services
+- System Design
+- Python Development
+- Scalable SaaS Architecture
+
+---
+
 ## 📫 Connect With Me
 
-- 🌐 Portfolio: https://rayan.website
-- 💼 LinkedIn: https://linkedin.com/in/rayan-ahmad786
-- 📧 Email: rayanahmad7800@gmail.com
+- 🌐 Portfolio: [rayan.website](https://rayan.website)
+- 💼 LinkedIn: [Rayan Ahmad](https://linkedin.com/in/rayan-ahmad786)
+- 📧 Email: [rayanahmad7800@gmail.com](mailto:rayanahmad7800@gmail.com)
 
 ---
 
