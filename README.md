@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Rayan
+# 👋 Hi, I'm Rayan Ahmad
 
-### Full Stack Developer | Backend Enthusiast | AWS & Docker
+### Full Stack Developer | DevOps Engineer | Cloud Enthusiast
 
 Building scalable, secure, and production-ready web applications with modern technologies.
 
@@ -16,7 +16,7 @@ Building scalable, secure, and production-ready web applications with modern tec
 
 ## 💫 About Me
 
-- 💻 Full Stack Developer
+- 💻 Full Stack Developer and DevOps Engineer
 - 🚀 Building production-ready full-stack applications
 - 🐳 Docker, CI/CD & System Design
 - ☁️ Deploying apps on AWS EC2 with Nginx
@@ -50,7 +50,7 @@ Building scalable, secure, and production-ready web applications with modern tec
 ---
 
 ## 🚀 Featured Projects
-### 📌 Expense Tracker
+### 📌 Expense Tracker(Spendora)
 - Authentication JWT and SSO(0Auth)
 - Nodemailer(OTP)
 - REST Api and CRUD
